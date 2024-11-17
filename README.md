@@ -1,1 +1,1 @@
-# woocommerce-sql-queries
+# Woocommerce SQL Queries
